@@ -82,14 +82,15 @@ a:visited {
 .input-field {
 	font-size: 1.5vw;
 	flex: 1;
-	background: #595959;
-	color: white;
+	background: white;
+	color: black;
 	box-shadow: 4px 9px 35px rgba(89, 89, 89, 0.69);
 	border-radius: 31px;
 	height: 10vh;
 	--demo-height: 28vh;
 	height: var(--demo-height);
 	padding-top: 2rem;
+	font-family: cursive;
 }
 
 .preview-window {
